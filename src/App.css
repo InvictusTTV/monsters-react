@@ -1,0 +1,21 @@
+body {
+  background: #433c68;
+}
+.App {
+  width: 70%;
+  margin: 0 auto;
+  box-sizing: border-box;
+  /* padding: 20px; */
+  color: white;
+
+  text-align: center;
+}
+
+button {
+  color: white;
+  padding: 5px 10px;
+  background: #7d6adb;
+  border-radius: 5px;
+  box-shadow: none;
+  border: none;
+}
